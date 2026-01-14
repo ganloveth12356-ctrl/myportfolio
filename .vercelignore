@@ -1,0 +1,18 @@
+
+# Vercel Ignore
+php-backend/
+*.php
+frontend_deploy.zip
+frontend_local.zip
+frontend_prod.zip
+UPLOAD_THIS.zip
+deployment_guide.md
+implementation_plan.md
+task.md
+vercel_guide.md
+walkthrough.md
+deploy_ftp.py
+post_build.py
+unzip.php
+.env.local
+.env
